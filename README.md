@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wq5576ke/Azure%20Pipelines%20Project/_apis/build/status/DavidFreetly.pipelines-java?branchName=master)](https://dev.azure.com/wq5576ke/Azure%20Pipelines%20Project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
